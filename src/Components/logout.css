@@ -1,0 +1,7 @@
+.signOut {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  font-size: 2rem;
+}

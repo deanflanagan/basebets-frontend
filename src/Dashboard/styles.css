@@ -1,0 +1,19 @@
+.dashboard-container {
+  display: block;
+}
+
+.dataTable-container {
+  padding: 0.2rem 10rem;
+}
+
+.signOut {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.bets-container {
+  display: block;
+}

@@ -1,0 +1,22 @@
+.bodyForm {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.warningBlock {
+  display: block;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 2s, opacity 2s linear;
+}
+
+.edit-profile-form {
+  display: block;
+}
+
+.edit-profile-field {
+  padding: 1rem;
+}

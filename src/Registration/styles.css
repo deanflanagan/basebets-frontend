@@ -1,0 +1,11 @@
+.edit-profile-form {
+  display: block;
+}
+
+.edit-profile-field {
+  padding: 1rem;
+}
+
+.login-error {
+  color: red;
+}
